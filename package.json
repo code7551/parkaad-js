@@ -11,6 +11,13 @@
     "broadcast"
   ],
   "homepage": "https://parkaad.com/partners",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/code7551/parkaad-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/code7551/parkaad-js/issues"
+  },
   "license": "MIT",
   "type": "module",
   "exports": {

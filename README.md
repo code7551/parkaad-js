@@ -14,8 +14,10 @@ just a random id.
 ## Install
 
 ```sh
-npm install parkaad
+npm install github:code7551/parkaad-js
 ```
+
+(Once it's published to npm: `npm install parkaad`.)
 
 ## Use
 
